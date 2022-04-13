@@ -416,6 +416,28 @@ textarea {
 /* =============
     Header
 ============= */
+header {
+  display: flex;
+  background-color: #414D58;
+  height: 100px;
+}
+
+ul {
+  display: flex;
+  justify-content: right;
+  margin-left: auto;
+  margin-right: 20px;
+  margin-top: 30px;
+  color: white;
+}
+ul li {
+  padding: 10px;
+}
+
+img {
+  height: 90px;
+}
+
 /* =============
     Footer
 ============= */

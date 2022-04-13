@@ -29,6 +29,32 @@
       "oF" : 0,
       "pg" : 0
     },
+    "\/deploy\/img\/Hero.png" : {
+      "ft" : 32768,
+      "iS" : 1663886,
+      "oA" : 0,
+      "oAP" : "\/deploy\/img\/Hero.png",
+      "oF" : 0,
+      "oIPL" : 0,
+      "opt" : 0,
+      "oT" : 1,
+      "ou" : "lpckwebp-none",
+      "q" : 100,
+      "rq" : 75
+    },
+    "\/deploy\/img\/heroimage.png" : {
+      "ft" : 32768,
+      "iS" : 2029181,
+      "oA" : 0,
+      "oAP" : "\/deploy\/img\/heroimage.png",
+      "oF" : 0,
+      "oIPL" : 0,
+      "opt" : 0,
+      "oT" : 1,
+      "ou" : "lpckwebp-none",
+      "q" : 100,
+      "rq" : 75
+    },
     "\/deploy\/Img\/Logo.png" : {
       "ft" : 32768,
       "iS" : 8752,
