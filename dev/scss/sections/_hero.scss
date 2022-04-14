@@ -1,23 +1,43 @@
 #hero{
     // div{
-        height: 814px;
-        background-image: url("../img/heroimage.png" );
-        background-repeat: no-repeat;
-        margin-top: 50px;
-        background-color: #272E34;
-        background-size: 100%;
-        // align-content: center;
+ background-color: #272E34;
 
-h1{
-    display: flex;
-    justify-content: center;
-    color: white;
-    padding-top: 30%;
-}
-h3{
-    display: flex;
-    justify-content: center;
-    color: white; 
+
+#heroimage{
+    border-top: 6px;
+    border-bottom: 6px;
+    border-color: #999899;
+    border-style: solid;
+    height: 775px;
+    font-family: 'Bodoni Moda', serif;
+    font-size: 200%;
+  
+    background-image: url("../img/heroimage.png" );
+    background-repeat: no-repeat;
+    // margin-top: 50px;
+    background-color: #272E34;
+    background-size: 100%;
+
+    h1{
+       display: flex;
+       justify-content: center;
+       color: white;
+       padding-top: 25%;
+       }
+       h3{
+        padding-top: 20px;
+        font-weight: lighter;
+       display: flex;
+       justify-content: center;
+       color: white; 
+       }
 }
     // }
 }
+
+
+ 
+
+    // align-content: center;
+
+

@@ -417,12 +417,17 @@ textarea {
     Header
 ============= */
 header {
+  background-color: #272E34;
+  height: 150px;
+  font-family: "Bodoni Moda", serif;
+  font-weight: bolder;
+}
+header #headr {
   display: flex;
   background-color: #414D58;
   height: 100px;
 }
-
-ul {
+header #headr ul {
   display: flex;
   justify-content: right;
   margin-left: auto;
@@ -430,11 +435,10 @@ ul {
   margin-top: 30px;
   color: white;
 }
-ul li {
+header #headr ul li {
   padding: 10px;
 }
-
-img {
+header #headr img {
   height: 90px;
 }
 
@@ -442,20 +446,30 @@ img {
     Footer
 ============= */
 #hero {
-  height: 814px;
+  background-color: #272E34;
+}
+#hero #heroimage {
+  border-top: 6px;
+  border-bottom: 6px;
+  border-color: #999899;
+  border-style: solid;
+  height: 775px;
+  font-family: "Bodoni Moda", serif;
+  font-size: 200%;
   background-image: url("../img/heroimage.png");
   background-repeat: no-repeat;
-  margin-top: 50px;
   background-color: #272E34;
   background-size: 100%;
 }
-#hero h1 {
+#hero #heroimage h1 {
   display: flex;
   justify-content: center;
   color: white;
-  padding-top: 30%;
+  padding-top: 25%;
 }
-#hero h3 {
+#hero #heroimage h3 {
+  padding-top: 20px;
+  font-weight: lighter;
   display: flex;
   justify-content: center;
   color: white;
@@ -467,10 +481,14 @@ img {
   padding-top: 50px;
 }
 #info h2 {
+  font-family: "Bodoni Moda", serif;
   display: flex;
   justify-content: center;
+  font-weight: bold;
 }
 #info p {
+  font-family: "Bodoni Moda", serif;
+  font-weight: lighter;
   display: flex;
   justify-content: center;
   align-content: center;
