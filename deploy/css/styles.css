@@ -441,3 +441,41 @@ img {
 /* =============
     Footer
 ============= */
+#hero {
+  height: 814px;
+  background-image: url("../img/heroimage.png");
+  background-repeat: no-repeat;
+  margin-top: 50px;
+  background-color: #272E34;
+  background-size: 100%;
+}
+#hero h1 {
+  display: flex;
+  justify-content: center;
+  color: white;
+  padding-top: 30%;
+}
+#hero h3 {
+  display: flex;
+  justify-content: center;
+  color: white;
+}
+
+#info {
+  background-color: #272E34;
+  color: white;
+  padding-top: 50px;
+}
+#info h2 {
+  display: flex;
+  justify-content: center;
+}
+#info p {
+  display: flex;
+  justify-content: center;
+  align-content: center;
+  padding-left: 40%;
+  padding-right: 40%;
+  padding-top: 20px;
+  padding-bottom: 50px;
+}
