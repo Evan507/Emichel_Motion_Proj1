@@ -449,14 +449,11 @@ header #headr img {
   background-color: #272E34;
 }
 #hero #heroimage {
-  border-top: 6px;
-  border-bottom: 6px;
-  border-color: #999899;
-  border-style: solid;
-  height: 775px;
+  background-size: 100%;
+  height: 800px;
   font-family: "Bodoni Moda", serif;
   font-size: 200%;
-  background-image: url("../img/heroimage.png");
+  background-image: url("../img/heroimage2.png");
   background-repeat: no-repeat;
   background-color: #272E34;
   background-size: 100%;

@@ -4,15 +4,20 @@
 
 
 #heroimage{
-    border-top: 6px;
-    border-bottom: 6px;
-    border-color: #999899;
-    border-style: solid;
-    height: 775px;
+    // border-top: 6px;
+    // border-bottom: 6px;
+    // border-color: #999899;
+    // border-style: solid;
+    background-size: 100%;
+    height: 800px;
+    // height: 100%; 
     font-family: 'Bodoni Moda', serif;
     font-size: 200%;
+    // padding-bottom: 0px;
+
+ 
   
-    background-image: url("../img/heroimage.png" );
+    background-image: url("../img/heroimage2.png" );
     background-repeat: no-repeat;
     // margin-top: 50px;
     background-color: #272E34;
