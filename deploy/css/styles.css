@@ -450,7 +450,8 @@ header #headr img {
 }
 #hero #heroimage {
   background-size: 100%;
-  height: 800px;
+  height: 100%;
+  padding-bottom: 25%;
   font-family: "Bodoni Moda", serif;
   font-size: 200%;
   background-image: url("../img/heroimage2.png");
@@ -459,6 +460,7 @@ header #headr img {
   background-size: 100%;
 }
 #hero #heroimage h1 {
+  font-weight: bolder;
   display: flex;
   justify-content: center;
   color: white;
