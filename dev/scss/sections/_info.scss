@@ -18,6 +18,13 @@
         padding-right: 40%;
         padding-top: 20px;
         padding-bottom:20%;
+
+        @include sm{
+            padding-left: 20%;
+        padding-right: 20%;
+        padding-top: 20px;
+        padding-bottom:20%; 
+        }
     }
 
 }
